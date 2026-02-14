@@ -1,4 +1,4 @@
-# 📊 Instagram Pulse Analytics Dashboard
+# Instagram Pulse Analytics Dashboard
 
 ## 📌 Project Overview
 **Instagram Pulse Analytics** is a data analytics project that analyzes Instagram performance across **content types, traffic sources, and content categories**.  
